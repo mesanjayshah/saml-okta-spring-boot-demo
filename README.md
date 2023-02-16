@@ -1,0 +1,1 @@
+A Spring Boot example app that shows how to implement single sign-on (SSO) with Spring Security's SAML and Okta.
